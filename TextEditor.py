@@ -1,5 +1,7 @@
+
 #!/usr/bin/python
 from tkinter import *
+
 
 def closeWindow(zdarznie):
     root.quit() # przerywa tryb nasluchiwania zdarzen
